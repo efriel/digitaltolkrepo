@@ -24,7 +24,7 @@ class BookingController extends Controller
      * BookingController constructor.
      * @param BookingRepository $bookingRepository
      */
-    public function __construct(BookingRepository $bookingRepository)
+    public function __construct(BookingRepositoryInterface $bookingRepository)
     {
         $this->repository = $bookingRepository;
     }
