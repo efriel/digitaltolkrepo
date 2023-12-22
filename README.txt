@@ -1,5 +1,5 @@
-I have looked a brief My Thought about the code is:
-it is a OK code, the method is similar with the method I usually did, I often using repository to make my code more simple and easy to understand for new developer, and I feek the same when I looked in to the code, simple and easy to understand
+I have looked a brief, My Thought about the code is:
+it is a OK code, the method is similar with the method I usually did, I often using repository to make my code more simple and easy to understand for new developer, and I felt the same experience when I looked in to the code, simple and easy to understand
 
 however I will add some code to make it more simple in the Controller file
 
