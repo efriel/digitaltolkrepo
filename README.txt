@@ -30,3 +30,6 @@ public function index(Request $request)
     $response = ($is_admin) ? $this->repository->getUsersJobs($user_id) : $this->repository->getAll($request);
     return response($response);
 }
+
+## BookingController line 187 public function distanceFeed
+There're to many lines in the function distanceFeed we can move the code to the new BookingService file
